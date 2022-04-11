@@ -20,5 +20,5 @@ p {
 
 #disqus_thread {
     margin: 2rem auto;
-    min-width: 600px;
+    max-width: 600px;
 }
